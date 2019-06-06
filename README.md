@@ -1,4 +1,6 @@
 # digestive
+<img align="right" width="250" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Bowl_of_digestive_biscuits.jpg">
+
 Dictionary cracking tool for HTTP Digest challenge/response hashes
 
 Code based on: https://gist.github.com/yesecurity/5fb47f44e289e8bc9c35
