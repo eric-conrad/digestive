@@ -7,7 +7,7 @@ Code based on: https://gist.github.com/yesecurity/5fb47f44e289e8bc9c35
  
 Launches dictionary attack vs captured HTTP Digest credentials (taken from a PCAP, Burp or ZAP proxy, etc.)
 
-## Example credential
+## Example credentials
 
 <img src="media/digest-zap.png" width="600"/>
 
