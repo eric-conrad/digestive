@@ -15,4 +15,4 @@ Launches dictionary attack vs captured HTTP Digest credentials (taken from a PCA
 
 # Resulting command line (using John the Ripper's wordlist):
  
-``` ./digest.py --username conrad --wordlist /opt/john/run/password.lst --method GET --uri /digest/ --nc 00000001 --qop auth --realm Security542 --cnonce 90755b083034b34a  --nonce es3UMKyKBQA=14c0d9850599ab3d69ad238ae68e7ca167ced5a2 --response f4be8f052a172cce14d8c4ab2340f25c```
+```digestive --username conrad --wordlist /opt/john/run/password.lst --method GET --uri /digest/ --nc 00000001 --qop auth --realm Security542 --cnonce 763eb7656a737513  --nonce q5mFt62KBQA=30b96361b3061fc88ad88a19170b873073ccb930 --response 36bf5df32af14d751ee901fcd2d72479```
